@@ -15,18 +15,18 @@ The challenge scenario involves a business review meeting between key stakeholde
 Peter is tasked with conducting a deep analysis on the company's performance over the last six months and responding to a series of questions, particularly those of an ad-hoc nature.
 
 ### Current Progress
-** 1. Ad-Hoc Requests **
+**1. Ad-Hoc Requests**
 
 The following ad-hoc requests were addressed using SQL:
 - Quick insights on ride volumes, customer feedback, and operational efficiency.
 - Identification of trends over the last six months.
 - Focus on specific city-level performance to assist in decision-making.
 
-** 2. Primary and Secondary Questions (In Progress)**
+**2. Primary and Secondary Questions (In Progress)**
 
 The project also involves answering a set of primary and secondary business questions, with deeper analytical insights to guide GoodCabs strategy moving forward.
 
-** 3. Power BI Dashboards (Planned)**
+**3. Power BI Dashboards (Planned)**
 - Create interactive dashboards to visualize key performance metrics.
 - Build reports summarizing findings for stakeholders.
 
