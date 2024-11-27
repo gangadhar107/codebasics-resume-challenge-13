@@ -1,6 +1,6 @@
 # Codebasics Resume Project Challenge(#13)
 
-### Overview
+## Overview
 This project is part of the Codebasics Resume Project Challenge #13. The challenge involves analyzing the performance of GoodCabs, a cab service operating in Tier-2 cities, by addressing business questions raised by stakeholders. The project requires delivering insights through SQL and Power BI.
 
 I have currently completed the ad-hoc requests section using SQL to provide quick insights for various stakeholder questions.
@@ -29,8 +29,8 @@ The project also involves answering a set of primary and secondary business ques
 - Build reports summarizing findings for stakeholders.
 
 ### Tools & Technologies
-- SQL: Used for querying and ad-hoc data analysis.
-- Power BI: To create interactive dashboards and visualize insights.
+- **SQL:** Used for querying and ad-hoc data analysis.
+- **Power BI:** To create interactive dashboards and visualize insights.
 
 ### Future Steps
 - Finalize the analysis for primary and secondary questions.
