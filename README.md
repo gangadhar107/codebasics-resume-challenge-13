@@ -22,6 +22,7 @@ The following ad-hoc requests were addressed using SQL:
 - Focus on specific city-level performance to assist in decision-making.
 
 2. Primary and Secondary Questions (In Progress)
+
 The project also involves answering a set of primary and secondary business questions, with deeper analytical insights to guide GoodCabs’ strategy moving forward.
 
 3. Power BI Dashboards (Planned)
